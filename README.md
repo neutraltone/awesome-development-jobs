@@ -70,7 +70,7 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [Work in Startups](http://workinstartups.com/)
 * [Who is Hiring](https://whoishiring.io/)
 
-## :flag-gb: United Kingdom
+## :gb: United Kingdom
 
 A list of international job sites with a mixture of onsite and remote based positions.
 

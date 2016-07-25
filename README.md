@@ -1,6 +1,6 @@
-# Useful Job Websites and Resources
+# Awesome Development Jobs
 
-## :mortar_board: General Info
+## :mortar_board: General Info & Resources
 
 Before getting started it is recommended that you brush up on the front end interview process by reading through and familiarise youself with these fantastic resources:
 
@@ -8,7 +8,7 @@ Before getting started it is recommended that you brush up on the front end inte
 [Onboarding Process Presentation](http://kae76.github.io/onboardingprocess_presentation/) - A presentation by Karen Leech and Tom Bamford about the onboarding process.
 [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html) - A basic test for measuring how good a software team is.
 
-## :computer: Remote
+## :computer: Remote Jobs
 
 Here are list of job websites that are dedicated to remote jobs and listings.
 
@@ -27,7 +27,7 @@ Here are list of job websites that are dedicated to remote jobs and listings.
 * [Work Remotely](https://workremotely.io/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
 
-### Specialist Freelance Sites
+### Specialist Freelance Job Sites
 
 * [Need](https://needhq.com/)
 * [OnSite](http://onsite.io/)
@@ -82,6 +82,6 @@ A list of international job sites with a mixture of onsite and remote based posi
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [Wired Sussex](http://www.wiredsussex.com/jobs/jobsearch.asp)
 
-### Specialist Freelance Sites
+### Specialist Freelance Job Sites
 
 * [Yuno Juno](https://www.yunojuno.com/) (London only right now)

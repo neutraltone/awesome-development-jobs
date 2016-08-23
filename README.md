@@ -48,6 +48,7 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [Awwwards](http://www.awwwards.com/jobs/)
 * [CodePen Jobs](http://codepen.io/jobs/)
 * [Coder Wall](https://coderwall.com/jobs)
+* (CSS-Tricks Jobs Board](https://css-tricks.com/jobs/)
 * [Dribbble Jobs](https://dribbble.com/jobs)
 * [DSGN Jobs](http://www.dsgnjbs.com/)
 * [Freshjobs](http://freshjobs.ch/)

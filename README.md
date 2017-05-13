@@ -1,6 +1,6 @@
 # Awesome Development Jobs
 
-![Illustration of a laptop](https://raw.githubusercontent.com/neutraltone/awesome-development-jobs/master/assets/logo/awesome-development-jobs-logo.svg "Awesome Development Jobs")
+![Illustration of a laptop](https://cdn.rawgit.com/neutraltone/awesome-development-jobs/008d22d3/assets/logo/awesome-development-jobs-logo.svg "Awesome Development Jobs")
 
 ## :mortar_board: General Info & Resources
 

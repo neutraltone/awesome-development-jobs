@@ -1,5 +1,7 @@
 # Awesome Development Jobs
 
+![Illustration of a laptop](https://raw.githubusercontent.com/neutraltone/awesome-development-jobs/master/assets/logo/awesome-development-jobs-logo.svg "Awesome Development Jobs")
+
 ## :mortar_board: General Info & Resources
 
 Before getting started it is recommended that you brush up on the front end interview process by reading through and familiarise youself with these fantastic resources:

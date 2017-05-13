@@ -1,6 +1,6 @@
 # Awesome Development Jobs
 
-![Illustration of a laptop](https://cdn.rawgit.com/neutraltone/awesome-development-jobs/008d22d3/assets/logo/awesome-development-jobs-logo.svg "Awesome Development Jobs" | width=120)
+<img src="https://cdn.rawgit.com/neutraltone/awesome-development-jobs/008d22d3/assets/logo/awesome-development-jobs-logo.svg" alt="Illustration of a laptop" title="Awesome Development Jobs" width="120" height="120">
 
 ## :mortar_board: General Info & Resources
 

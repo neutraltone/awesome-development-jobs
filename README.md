@@ -1,6 +1,7 @@
 # Awesome Development Jobs
 
 <img src="https://cdn.rawgit.com/neutraltone/awesome-development-jobs/008d22d3/assets/logo/awesome-development-jobs-logo.svg" alt="Illustration of a laptop" title="Awesome Development Jobs" width="120" height="120">
+
 *An ever expanding list of awesome development job resources.*
 
 ## :mortar_board: General Info & Resources

@@ -108,3 +108,16 @@ Most of the ads are in Danish, but there's a very good chance finding internatio
 ## 🇨🇱 Chile
 
 * [Get on Board](https://www.getonbrd.cl/) - Mostly jobs in Chile but also in a Argentina, Peru, Mexico and Colombia.
+
+## 🇨🇦 Canada
+
+A list of Canadian job search engines. Since English and French are Canada's two official languages, some websites have two versions.
+
+* [Eluta](https://www.eluta.ca/)
+* [Government of Canada Job Bank](https://www.jobbank.gc.ca/home)
+* [Jobboom: English](https://www.jobboom.com/en)
+* [Jobboom: French](https://www.jobboom.com/fr)
+* [Robert Half: English](https://www.roberthalf.ca/en)
+* [Robert Half: French](https://www.roberthalf.ca/fr)
+* [Workopolis: English](https://www.workopolis.com/en/)
+* [Workopolis: French](https://www.workopolis.com/fr/)

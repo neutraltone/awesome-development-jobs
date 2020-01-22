@@ -4,6 +4,19 @@
 
 *An ever expanding list of awesome development job resources.*
 
+## Contents
+
+* [General Info & Resources](#mortar_board-general-info--resources)
+* [Remote Jobs](#computer-remote-jobs)
+** [Specialist Freelance Job Sites](#specialist-freelance-job-sites)
+** [Other Related Remote Work Resources](#other-related-remote-work-resources)
+* [International](#globe_with_meridians-international)
+* [Chile](#chile-chile)
+* [Denmark](#denmark-denmark)
+* [Switzerland](#switzerland-Switzerland)
+* [United Kingdom](#gb-united-kingdom)
+** [Specialist Freelance Job Sites](#specialist-freelance-job-sites-1)
+
 ## :mortar_board: General Info & Resources
 
 Before getting started it is recommended that you brush up on the front end interview process by reading through and familiarise youself with these fantastic resources:
@@ -76,6 +89,27 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [Work in Startups](http://workinstartups.com/)
 * [Who is Hiring](https://whoishiring.io/)
 
+## :chile: Chile
+
+* [Get on Board](https://www.getonbrd.cl/) - Mostly jobs in Chile but also in a Argentina, Peru, Mexico and Colombia.
+
+## :denmark: Denmark
+
+Most of the ads are in Danish, but there's a very good chance finding international jobs on each of these sites.
+
+* [It Job Bank](https://www.it-jobbank.dk/)
+* [Job Index](https://it.jobindex.dk/?lang=en)
+* [The Hub](https://thehub.dk/) (startups)
+* [CPH FTW Jobs](https://cphftwjobs.wpengine.com/) (startups)
+* [StepStone](https://www.stepstone.dk/job/it)
+* [Work in Denmark](https://www.workindenmark.dk/)
+* [Jobzonen](http://www.jobzonen.dk/)
+* [Monster](http://www.monster.dk/job/sog/IT-softwareudvikling_4)
+
+## :switzerland: Switzerland
+
+* [SwissDev Jobs](https://swissdevjobs.ch/) - Swiss job board dedicated for Software Developers
+
 ## :gb: United Kingdom
 
 A list of international job sites with a mixture of onsite and remote based positions.
@@ -91,24 +125,3 @@ A list of international job sites with a mixture of onsite and remote based posi
 ### Specialist Freelance Job Sites
 
 * [Yuno Juno](https://www.yunojuno.com/) (London only right now)
-
-## 🇩🇰 Denmark
-
-Most of the ads are in Danish, but there's a very good chance finding international jobs on each of these sites.
-
-* [It Job Bank](https://www.it-jobbank.dk/)
-* [Job Index](https://it.jobindex.dk/?lang=en)
-* [The Hub](https://thehub.dk/) (startups)
-* [CPH FTW Jobs](https://cphftwjobs.wpengine.com/) (startups)
-* [StepStone](https://www.stepstone.dk/job/it)
-* [Work in Denmark](https://www.workindenmark.dk/)
-* [Jobzonen](http://www.jobzonen.dk/)
-* [Monster](http://www.monster.dk/job/sog/IT-softwareudvikling_4)
-
-## 🇨🇱 Chile
-
-* [Get on Board](https://www.getonbrd.cl/) - Mostly jobs in Chile but also in a Argentina, Peru, Mexico and Colombia.
-
-## 🇨🇭Switzerland
-
-* [SwissDev Jobs](https://swissdevjobs.ch/) - Swiss job board dedicated for Software Developers

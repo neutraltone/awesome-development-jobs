@@ -8,14 +8,14 @@
 
 * [General Info & Resources](#mortar_board-general-info--resources)
 * [Remote Jobs](#computer-remote-jobs)
-** [Specialist Freelance Job Sites](#specialist-freelance-job-sites)
-** [Other Related Remote Work Resources](#other-related-remote-work-resources)
+ * [Specialist Freelance Job Sites](#specialist-freelance-job-sites)
+ * [Other Related Remote Work Resources](#other-related-remote-work-resources)
 * [International](#globe_with_meridians-international)
 * [Chile](#chile-chile)
 * [Denmark](#denmark-denmark)
 * [Switzerland](#switzerland-Switzerland)
 * [United Kingdom](#gb-united-kingdom)
-** [Specialist Freelance Job Sites](#specialist-freelance-job-sites-1)
+ * [Specialist Freelance Job Sites](#specialist-freelance-job-sites-1)
 
 ## :mortar_board: General Info & Resources
 

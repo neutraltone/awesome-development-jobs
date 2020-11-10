@@ -29,6 +29,7 @@ Before getting started it is recommended that you brush up on the front end inte
 
 Here are list of job websites that are dedicated to remote jobs and listings.
 
+* [Career Vault](https://www.careervault.io/)
 * [Flexjobs](https://www.flexjobs.com/)
 * [Jobmote](http://jobmote.com/)
 * [Jobpresso](https://jobspresso.co/)

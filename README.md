@@ -100,10 +100,8 @@ Most of the ads are in Danish, but there's a very good chance finding internatio
 * [It Job Bank](https://www.it-jobbank.dk/)
 * [Job Index](https://it.jobindex.dk/?lang=en)
 * [The Hub](https://thehub.dk/) (startups)
-* [CPH FTW Jobs](https://cphftwjobs.wpengine.com/) (startups)
 * [StepStone](https://www.stepstone.dk/job/it)
 * [Work in Denmark](https://www.workindenmark.dk/)
-* [Jobzonen](http://www.jobzonen.dk/)
 * [Monster](http://www.monster.dk/job/sog/IT-softwareudvikling_4)
 
 ## :switzerland: Switzerland

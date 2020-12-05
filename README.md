@@ -104,6 +104,10 @@ Most of the ads are in Danish, but there's a very good chance finding internatio
 * [Work in Denmark](https://www.workindenmark.dk/)
 * [Monster](http://www.monster.dk/job/sog/IT-softwareudvikling_4)
 
+## :germany: Germany
+
+* [GermanTech Jobs](https://germantechjobs.de/) - Job board with tech jobs in Germany (with salary brackets)
+
 ## :switzerland: Switzerland
 
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Swiss job board dedicated for Software Developers

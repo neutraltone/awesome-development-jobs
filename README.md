@@ -108,7 +108,7 @@ Most of the ads are in Danish, but there's a very good chance finding internatio
 * [Work in Denmark](https://www.workindenmark.dk/)
 * [Monster](http://www.monster.dk/job/sog/IT-softwareudvikling_4)
 
-## :germany: Germany
+## :de: Germany
 
 * [GermanTech Jobs](https://germantechjobs.de/) - Job board with tech jobs in Germany (with salary brackets)
 
@@ -120,6 +120,7 @@ Most of the ads are in Danish, but there's a very good chance finding internatio
 
 A list of international job sites with a mixture of onsite and remote based positions.
 
+* [DevITjobs](https://devitjobs.uk/)
 * [Digital Oxford](http://www.digitaloxford.com/#jobs)
 * [Drupal UK Wanted](http://drupal.org.uk/wanted)
 * [Independent Jobs](http://independentjobs.independent.co.uk/searchjobs/)

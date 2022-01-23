@@ -67,6 +67,7 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [arbeitnow](https://arbeitnow.com/)
 * [Authentic Jobs](https://authenticjobs.com/)
 * [Awwwards](http://www.awwwards.com/jobs/)
+* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
 * [CodePen Jobs](http://codepen.io/jobs/)
 * [Coder Wall](https://coderwall.com/jobs)
 * [CSS-Tricks Jobs Board](https://css-tricks.com/jobs/)
@@ -74,7 +75,7 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [DSGN Jobs](http://www.dsgnjbs.com/)
 * [Freshjobs](http://freshjobs.ch/)
 * [Front-End Developer Job](http://frontenddeveloperjob.com/)
-* [Golang Projects](http://www.golangprojects.com/)
+* [Golang Projects](http://www.golangprojects.com/) - Golang jobs, also got a remote section
 * [GitHub Jobs](https://jobs.github.com/)
 * [HackerNews Who's Hiring](http://whereis-whoishiring-hiring.me/)
 * [Has Job](https://hasjob.co/)

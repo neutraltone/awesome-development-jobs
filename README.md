@@ -93,6 +93,7 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [UX Job Boards](https://www.uxjobsboard.com/)
 * [Work in Startups](http://workinstartups.com/)
 * [Who is Hiring](https://whoishiring.io/)
+* [Kube Careers](https://kube.careers/)
 
 ## :chile: Chile
 

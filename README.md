@@ -89,6 +89,7 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [Smashing Magazine Jobs](http://jobs.smashingmagazine.com/)
 * [StackOverflow Careers](http://careers.stackoverflow.com/)
 * [Staff](https://www.staff.com/)
+* [Strider](https://www.onstrider.com/)
 * [Treehouse Job Board](https://teamtreehouse.com/jobs)
 * [UX Job Boards](https://www.uxjobsboard.com/)
 * [Work in Startups](http://workinstartups.com/)

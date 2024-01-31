@@ -34,6 +34,7 @@ Here are list of job websites that are dedicated to remote jobs and listings.
 * [Flexjobs](https://www.flexjobs.com/)
 * [Jobmote](http://jobmote.com/)
 * [Jobpresso](https://jobspresso.co/)
+* [OkJob](https://okjob.io/remote-4-day-work-week/)
 * [Remote Base](https://remotebase.io/)
 * [Remotebond](https://remotebond.com/)
 * [Remote Coder](https://remotecoder.io/)

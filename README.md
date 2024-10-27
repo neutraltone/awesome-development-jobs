@@ -117,6 +117,10 @@ Most of the ads are in Danish, but there's a very good chance finding internatio
 
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Swiss job board dedicated for Software Developers
 
+## 🇰🇪: Kenya
+
+* [Hired Jobs](https://www.hired.co.ke) - Job board for all categories of jobs in Kenya
+
 ## :gb: United Kingdom
 
 A list of international job sites with a mixture of onsite and remote based positions.

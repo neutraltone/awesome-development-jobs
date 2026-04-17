@@ -62,6 +62,7 @@ Here are list of job websites that are dedicated to remote jobs and listings.
 
 A list of international job sites which are agnostic of country. Due to the international nature of the sites there's a mixture of both inhouse and remote jobs.
 
+* [AI Dev Jobs](https://aidevboard.com) - Free AI and machine learning job board with 7,600+ jobs from 480+ companies. Includes a free REST API and MCP server.
 * [AngelList](https://angel.co/jobs)
 * [Angular Jobs](http://angularjobs.com/)
 * [arbeitnow](https://arbeitnow.com/)

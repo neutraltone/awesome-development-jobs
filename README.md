@@ -11,6 +11,7 @@
   * [Specialist Freelance Job Sites](#specialist-freelance-job-sites)
   * [Other Related Remote Work Resources](#other-related-remote-work-resources)
 * [International](#globe_with_meridians-international)
+* [Canada](#canada-canada)
 * [Chile](#chile-chile)
 * [Denmark](#denmark-denmark)
 * [Switzerland](#switzerland-Switzerland)
@@ -93,6 +94,10 @@ A list of international job sites which are agnostic of country. Due to the inte
 * [UX Job Boards](https://www.uxjobsboard.com/)
 * [Work in Startups](http://workinstartups.com/)
 * [Who is Hiring](https://whoishiring.io/)
+
+## :canada: Canada
+
+* [Hanzilla Jobs - Software Engineering](https://jobs.hanzilla.co/categories/software-engineering/) - Daily-updated Canadian student and recent-grad software engineering, data, IT, internship, co-op, new-grad, and junior roles with company career-page links.
 
 ## :chile: Chile
 

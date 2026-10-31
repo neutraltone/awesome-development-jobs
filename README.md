@@ -55,6 +55,7 @@ Here are list of job websites that are dedicated to remote jobs and listings.
 
 ### Other Related Remote Work Resources
 
+* [Autojob](https://autojob.org/jobs/remote) - Job board with 20,000+ jobs and an auto-apply feature.
 * [Remote friendly companies](https://github.com/jessicard/remote-jobs) - A repository of remote friendly companies.
 * [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job/) - A comprehensive resource for all things remote jobs.
 

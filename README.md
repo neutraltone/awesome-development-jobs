@@ -22,6 +22,7 @@
 Before getting started it is recommended that you brush up on the front end interview process by reading through and familiarise youself with these fantastic resources:
 
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A number of front-end interview questions that can be used when vetting potential candidates.
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
 * [Onboarding Process Presentation](http://kae76.github.io/onboardingprocess_presentation/) - A presentation by Karen Leech and Tom Bamford about the onboarding process.
 * [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html) - A basic test for measuring how good a software team is.
 
